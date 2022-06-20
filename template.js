@@ -6,3 +6,8 @@ const multiline = `i love you
 i need you
 don't come me`;
 console.log(multiline);
+
+
+const name = `I love my self.
+ I am Foodie`
+console.log(name);
